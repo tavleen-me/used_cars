@@ -1,0 +1,5 @@
+cars_updated.csv filter=lfs diff=lfs merge=lfs -text
+vehicles.csv filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Used_Cars_Sales_Prediction_Modeling_Tavleen_Sodhi.ipynb filter=lfs diff=lfs merge=lfs -text
+Used_cars_sales_prediction_Visualizations_Tavleen_Sodhi.ipynb filter=lfs diff=lfs merge=lfs -text
